@@ -40,6 +40,6 @@ This project presents a Retail Sales Analysis Dashboard built using Power BI to 
 * Designing user-friendly and professional layouts
 
 ## Project Highlights
-Interactive dashboard
-Advanced analytics features
-Clean and professional UI
+* Interactive dashboard
+* Advanced analytics features
+* Clean and professional UI
