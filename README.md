@@ -1,6 +1,6 @@
 # Retail Sales Analysis Dashboard
 
-![Dashboard Preview](Dashboard.png "Retail Sales Analysis Dashboard")
+![Dashboard](Dashboard.png "Retail Sales Analysis Dashboard")
 
 ## Project Overview
 
