@@ -1,11 +1,10 @@
 # Retail Sales Analysis Dashboard
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.png "Retail Sales Analysis Dashboard")
 
 ## Project Overview
 
-This project presents a **Retail Sales Analysis Dashboard** built using Power BI to analyze sales performance, customer behavior, and product trends.
-The dashboard provides interactive insights using KPIs, charts, tooltips, and drill-through features.
+This project presents a Retail Sales Analysis Dashboard built using Power BI to analyze sales performance, customer behavior, and product trends. The dashboard provides clear and interactive insights through KPIs, charts, and filters, enabling better business decision-making.
 
 ## Key Features
   * KPI Metrics
@@ -16,9 +15,6 @@ The dashboard provides interactive insights using KPIs, charts, tooltips, and dr
   * Date slicer (range-based)
   * Category & City filters
   * Tooltip page for quick insights
-  * Drill-through pages:
-    * Category Details
-    * Monthly Analysis
 
 ## Tools & Technologies
 * Power BI
@@ -40,7 +36,7 @@ The dashboard provides interactive insights using KPIs, charts, tooltips, and dr
 ## What I Learned
 * Data cleaning and validation using Excel & SQL
 * Building interactive dashboards in Power BI
-* Implementing tooltips and drill-through features
+* Implementing tooltip feature
 * Designing user-friendly and professional layouts
 
 ## Project Highlights
