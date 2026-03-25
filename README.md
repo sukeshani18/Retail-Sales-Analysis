@@ -1,4 +1,4 @@
-# Retail Sales Analysis Dashboard
+# Retail Sales Analysis 
 
 ![Dashboard](Dashboard.png "Retail Sales Analysis Dashboard")
 
@@ -21,23 +21,26 @@ This project presents a Retail Sales Analysis Dashboard built using Power BI to 
 * Excel (Data Cleaning)
 * PostgreSQL (Data Validation & Analysis)
 
-## Files Included
-* `Retail_Sales_Dashboard.pbix` → Power BI dashboard
-* `retail_sales_analysis.sql` → SQL queries
-* `Retail_Data.xlsx` → Clean dataset
-* `Dashboard.png` → Dashboard preview image
-
 ## Key Insights
 * High revenue generated from premium product categories
 * Certain cities contribute significantly to overall sales
 * Seasonal trends visible in monthly sales performance
 * Top products drive a large portion of revenue
 
+## Files
+* Dataset: [HR_Attrition_Cleaned.xlsx](HR_Attrition_Cleaned.xlsx)
+* Power BI File: [hr-attrition.pbix](hr-attrition.pbix)
+* SQL File: [Retail_sales.sql](Retail_sales.sql)
+
 ## What I Learned
 * Data cleaning and validation using Excel & SQL
 * Building interactive dashboards in Power BI
 * Implementing tooltip feature
 * Designing user-friendly and professional layouts
+
+## 📷 Dashboard Preview
+![Dashboard](Dashboard.png)
+![Dashboard](City_Tooltip.png)
 
 ## Project Highlights
 * Interactive dashboard
