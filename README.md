@@ -1,4 +1,3 @@
-# Retail-Sales-Analysis 
 # Retail Sales Analysis Dashboard
 
 ![Dashboard Preview](Dashboard.png)
